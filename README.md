@@ -20,3 +20,13 @@ Transaction Signature: 5U5A6gP27RdSYwR94GmDJRibxYua5wUswug9zeEjdkuUBTsHF3FWpboWj
 This is your ATA: 2doSzE6hVpJMr6nVavLo7p3uCSSVcG1zRanTKNvZZxtk!
 Succesfully Minted!. Transaction Here: https://explorer.solana.com/tx/5UG5YfT1EuXhdhjDgfjpZez2DZq4o9EbynvMgAqz7hofTPZWaH46UuLs1ssJ6V8xPgaCFuUNdk2aJBYPX52MYvyo?cluster=devnet
 ```
+
+第三版结果
+
+```
+正在使用地址: GD4yy8VnJHgEUQLVi5kzEJe9BJfJ51XiEA3ZdxpE1FGh 创建代币...
+代币创建成功! Mint 地址: 347Ja1oyng4j8y8XX3dbdu9xrm7bUFLSWQpQppRCvJge
+ATA 账户地址: D8VLa8deRRqkYETh9nRSLE7VY1sWQgYhbqrs2AtGaK9C
+铸造成功! 交易哈希: 3gt9x5XuGJ7fwW1fERitQf6ZY7wWw2SSxoKdgZTEkVayhV9mN4sUWNK38bp2TEfzp2GYxVEJccP1yVemKFuKfMU3
+检查地址: https://explorer.solana.com/address/347Ja1oyng4j8y8XX3dbdu9xrm7bUFLSWQpQppRCvJge?cluster=devnet
+```
